@@ -1,0 +1,2 @@
+(this["webpackJsonpwatson-homepage"]=this["webpackJsonpwatson-homepage"]||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var s=n(1),c=n.n(s),o=n(3),a=n.n(o),r=n(0);var i=function(){return Object(r.jsx)("div",{className:"App",children:"hello"})};a.a.render(Object(r.jsx)(c.a.StrictMode,{children:Object(r.jsx)(i,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.abb478a7.chunk.js.map
