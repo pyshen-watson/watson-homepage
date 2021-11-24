@@ -32,4 +32,4 @@ npm run deploy
 ```
 
 ## Set branch
-Go to github repo, and set gh-pages to default branch
+Go to github repo, setting, and set gh-pages to the source.
