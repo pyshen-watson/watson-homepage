@@ -9,6 +9,7 @@ export default function Site({icon, url, title}) {
     const SiteTitle = styled.div`
         margin-top: 0px;
         color: #bbbbbb;
+        text-align: center;
     `
 
     return (

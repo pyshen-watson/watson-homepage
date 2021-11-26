@@ -1,14 +1,26 @@
 import Site from "./Site";
+import data from "./info/info";
+import styled from "styled-components";
 
 function App() {
+
+  const AppLayout = styled.div`
+    display: flex;
+    justify-content: space-between;
+  `
+
+
   return (
-    <div className="App">
-      <Site
-          icon="https://icons.iconarchive.com/icons/danleech/simple/256/facebook-icon.png"
-          url="https://www.facebook.com/"
-          title="Facebook"
-      />
-    </div>
+    <AppLayout>
+      {
+        data.map((d) => 
+          <Site 
+            icon={d.icon}
+            url={d.url}
+            title={d.title}
+          /> )
+      }
+    </AppLayout>
   );
 }
 
