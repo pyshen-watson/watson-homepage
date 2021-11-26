@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import Wrapper from './Components/Wrapper'
-import {googleServiceData} from './Utils/siteInfo'
+import { googleServiceData, ntuData } from './Utils/siteInfo'
 
 ReactDOM.render(
   <React.StrictMode>
@@ -9,6 +9,11 @@ ReactDOM.render(
       dataset={googleServiceData} 
       title={"Google Service"} 
       rows={2}
+    />
+    <Wrapper 
+      dataset={ntuData}
+      title={"NTU"}
+      rows={1}
     />
   </React.StrictMode>,
   document.getElementById('root')

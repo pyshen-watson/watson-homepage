@@ -41,4 +41,28 @@ const googleServiceData = [
     }
 ]
 
-export {googleServiceData};
+const ntuData = [
+    {
+        icon: "https://i.ibb.co/9gSTbRc/ntu.png",
+        url: "https://my.ntu.edu.tw/",
+        title: "My NTU"
+    },
+    {
+        icon: "https://i.ibb.co/gyDDSvP/ntu-mail.png",
+        url: "https://mail.ntu.edu.tw/owa/#path=/mail",
+        title: "NTU Mail"
+    },
+    {
+        icon: "https://i.ibb.co/dpgrNg7/cool.png",
+        url: "https://cool.ntu.edu.tw/login/portal",
+        title: "NTU COOL"
+    },
+    {
+        icon: "https://i.ibb.co/2dSrtqb/ceiba.png",
+        url: "https://ceiba.ntu.edu.tw/",
+        title: "Ceiba"
+    }
+
+]
+
+export {googleServiceData, ntuData};
