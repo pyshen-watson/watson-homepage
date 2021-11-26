@@ -1,10 +1,15 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
+import React from 'react'
+import ReactDOM from 'react-dom'
+import Wrapper from './Components/Wrapper'
+import {googleServiceData} from './Utils/siteInfo'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Wrapper  
+      dataset={googleServiceData} 
+      title={"Google Service"} 
+      rows={2}
+    />
   </React.StrictMode>,
   document.getElementById('root')
 );
