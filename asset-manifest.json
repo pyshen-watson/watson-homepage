@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/watson-homepage/static/js/main.ee801de8.chunk.js",
-    "main.js.map": "/watson-homepage/static/js/main.ee801de8.chunk.js.map",
+    "main.js": "/watson-homepage/static/js/main.471c11a9.chunk.js",
+    "main.js.map": "/watson-homepage/static/js/main.471c11a9.chunk.js.map",
     "runtime-main.js": "/watson-homepage/static/js/runtime-main.08d15961.js",
     "runtime-main.js.map": "/watson-homepage/static/js/runtime-main.08d15961.js.map",
-    "static/js/2.8fbcb49b.chunk.js": "/watson-homepage/static/js/2.8fbcb49b.chunk.js",
-    "static/js/2.8fbcb49b.chunk.js.map": "/watson-homepage/static/js/2.8fbcb49b.chunk.js.map",
+    "static/js/2.91ed22a0.chunk.js": "/watson-homepage/static/js/2.91ed22a0.chunk.js",
+    "static/js/2.91ed22a0.chunk.js.map": "/watson-homepage/static/js/2.91ed22a0.chunk.js.map",
     "index.html": "/watson-homepage/index.html",
-    "static/js/2.8fbcb49b.chunk.js.LICENSE.txt": "/watson-homepage/static/js/2.8fbcb49b.chunk.js.LICENSE.txt"
+    "static/js/2.91ed22a0.chunk.js.LICENSE.txt": "/watson-homepage/static/js/2.91ed22a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.08d15961.js",
-    "static/js/2.8fbcb49b.chunk.js",
-    "static/js/main.ee801de8.chunk.js"
+    "static/js/2.91ed22a0.chunk.js",
+    "static/js/main.471c11a9.chunk.js"
   ]
 }
