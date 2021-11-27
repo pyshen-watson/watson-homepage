@@ -9,9 +9,11 @@ function Wrapper({dataset, title, rows}) {
     border-radius: 15px;
     border-color: #bbbbbb;
     width: fit-content;
+    margin: 2vh;
   `
   const WrapperTitle = styled.legend`
     color: gray;
+    padding: 0px 7px;
   `
 
   const cols = Math.ceil(dataset.length / rows)
